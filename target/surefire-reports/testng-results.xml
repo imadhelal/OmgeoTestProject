@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16423" started-at="2016-04-20T04:00:12Z" finished-at="2016-04-20T04:00:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16423" started-at="2016-04-20T04:00:12Z" finished-at="2016-04-20T04:00:29Z">
+      <class name="com.omego.uddinOmego.testCases.Ts001_Tc_001_VerifyNavigateToAboutOmego">
+        <test-method status="PASS" signature="verifyNavigateToAboutOmeg()[pri:0, instance:com.omego.uddinOmego.testCases.Ts001_Tc_001_VerifyNavigateToAboutOmego@6aaa5eb0]" name="verifyNavigateToAboutOmeg" duration-ms="2785" started-at="2016-04-20T00:00:12Z" finished-at="2016-04-20T00:00:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigateToAboutOmeg -->
+      </class> <!-- com.omego.uddinOmego.testCases.Ts001_Tc_001_VerifyNavigateToAboutOmego -->
+      <class name="com.omego.uddinOmego.testCases.Ts001_Tc003_VerifyLeadershipTeamPage">
+        <test-method status="PASS" signature="verifyLeadershipPage()[pri:0, instance:com.omego.uddinOmego.testCases.Ts001_Tc003_VerifyLeadershipTeamPage@1a407d53]" name="verifyLeadershipPage" duration-ms="9833" started-at="2016-04-20T00:00:19Z" finished-at="2016-04-20T00:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLeadershipPage -->
+      </class> <!-- com.omego.uddinOmego.testCases.Ts001_Tc003_VerifyLeadershipTeamPage -->
+      <class name="com.omego.uddinOmego.testCases.Ts001_Tc002_VerifyNavigateOmgeoAlertPage">
+        <test-method status="PASS" signature="verifyNavigateToOmegoAlert()[pri:0, instance:com.omego.uddinOmego.testCases.Ts001_Tc002_VerifyNavigateOmgeoAlertPage@3498ed]" name="verifyNavigateToOmegoAlert" duration-ms="3755" started-at="2016-04-20T00:00:15Z" finished-at="2016-04-20T00:00:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigateToOmegoAlert -->
+      </class> <!-- com.omego.uddinOmego.testCases.Ts001_Tc002_VerifyNavigateOmgeoAlertPage -->
+      <class name="com.omego.uddinOmego.utilities.OmegoDriver">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.omego.uddinOmego.utilities.OmegoDriver@1554909b]" name="setUp" is-config="true" duration-ms="21394" started-at="2016-04-19T23:59:51Z" finished-at="2016-04-20T00:00:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.omego.uddinOmego.utilities.OmegoDriver@1554909b]" name="tearDown" is-config="true" duration-ms="195" started-at="2016-04-20T00:00:29Z" finished-at="2016-04-20T00:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.omego.uddinOmego.utilities.OmegoDriver -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
